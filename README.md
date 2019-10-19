@@ -1,3 +1,13 @@
+# Would you rather game project
+
+Would you rather game is a game of answering questions with only two options for each question and see your answered & unanswered questions.<br>
+There is also a leaderboard to track your score 
+
+## Project Setup
+
+1. git clone git@github.com:Mina-Amir/react-redux-udacity.git
+2. npm intall
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
